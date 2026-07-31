@@ -1,6 +1,6 @@
 # ☕ AURA Coffee Executive Sales Dashboard
 
-<img width="566" height="365" alt="image" src="https://github.com/user-attachments/assets/c64c81a7-1f2f-4192-8b8a-218ec87fdd23" />
+<img width="563" height="341" alt="image" src="https://github.com/user-attachments/assets/8d69f0d6-0beb-42f4-814e-603f83acbcb0" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black"/>
