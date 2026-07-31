@@ -4,7 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white"/>
+<img width="700" height="329" alt="image" src="https://github.com/user-attachments/assets/89dac9ef-d873-4e7e-a81a-573d42dde187" />
+
   <img src="https://img.shields.io/badge/SQL-Analysis-336791?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAX-Measures-orange"/>
   <img src="https://img.shields.io/badge/Status-Completed-success"/>
