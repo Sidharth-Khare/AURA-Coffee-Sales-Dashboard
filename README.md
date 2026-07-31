@@ -3,8 +3,8 @@
 <img width="563" height="341" alt="image" src="https://github.com/user-attachments/assets/8d69f0d6-0beb-42f4-814e-603f83acbcb0" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black"/>
-<img width="700" height="329" alt="image" src="https://github.com/user-attachments/assets/89dac9ef-d873-4e7e-a81a-573d42dde187" />
+ <img width="701" height="344" alt="image" src="https://github.com/user-attachments/assets/1353c487-a1a2-49e4-9be2-b636ab98e018" />
+
 
   <img src="https://img.shields.io/badge/SQL-Analysis-336791?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAX-Measures-orange"/>
