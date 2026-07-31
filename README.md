@@ -2,9 +2,6 @@
 
 <img width="563" height="341" alt="image" src="https://github.com/user-attachments/assets/8d69f0d6-0beb-42f4-814e-603f83acbcb0" />
 
- 
-
-
   <img src="https://img.shields.io/badge/SQL-Analysis-336791?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DAX-Measures-orange"/>
   <img src="https://img.shields.io/badge/Status-Completed-success"/>
